@@ -1,0 +1,280 @@
+{
+  "categories": [
+    "Shampoos",
+    "Conditioners",
+    "Serums & Leave-Ins",
+    "Heat & Styling Protection",
+    "Scalp & Oil Care",
+    "Post-Treatment Care"
+  ],
+  "products": [
+    {
+      "sku": "NICKED-001",
+      "slug": "nicked-post-treatment-shampoo",
+      "name": "NICKED Post-Treatment Shampoo",
+      "size": "300 ml",
+      "price": "1150",
+      "range": "Post-Treatment",
+      "type": "Shampoo",
+      "concern": "Chemically treated / sensitized hair",
+      "categories": [
+        "Shampoos",
+        "Post-Treatment Care"
+      ],
+      "tagline": "For long-lasting smoothness & shine",
+      "summary": "",
+      "key_points": [
+        "Gentle Cleansing Formula",
+        "Helps Maintain Moisture Balance",
+        "Provides Deep Nourishment",
+        "Supports Long-Lasting Smoothness",
+        "Keeps Hair Soft, Manageable & Frizz-Free"
+      ],
+      "ideal_for": "Chemically treated, straightened, smoothened and sensitized hair that needs gentle cleansing, deep nourishment and long-lasting smoothness.",
+      "how_to_use": "",
+      "ingredients": "Aqua (Water), Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Ammonium Lauryl Sulfate, Cocamide DEA, Polyquaternium-10, Hydrolyzed Keratin, Perfume, Citric Acid, Phenoxyethanol.",
+      "ingredients_confirmed": true,
+      "usage_confirmed": false,
+      "review_note": "The catalogue has no How to Use text. Ingredient list includes Ammonium Lauryl Sulfate and contradicts printed sulfate-free claim. Confirm free-from claims before public display.",
+      "image_file": "post-treatment-shampoo.webp"
+    },
+    {
+      "sku": "NICKED-002",
+      "slug": "nicked-post-treatment-conditioner",
+      "name": "NICKED Post-Treatment Conditioner",
+      "size": "300 ml",
+      "price": "1150",
+      "range": "Post-Treatment",
+      "type": "Conditioner",
+      "concern": "Chemically treated / sensitized hair",
+      "categories": [
+        "Conditioners",
+        "Post-Treatment Care"
+      ],
+      "tagline": "For long-lasting smoothness & hydration",
+      "summary": "NICKED Post-Treatment Conditioner is a deep-conditioning formula designed for chemically treated and sensitized hair. This rich, nourishing formula helps maintain hair's natural moisture balance while providing long-lasting smoothness and hydration. It strengthens the hair, enhances shine, reduces frizz and improves manageability, leaving hair feeling soft, silky, and healthy.",
+      "key_points": [
+        "Deeply Nourishes & Hydrates",
+        "Smoothens & Softens Hair",
+        "Helps Improve Manageability",
+        "Enhances Shine & Frizz Control",
+        "Keeps Hair Healthy & Strong"
+      ],
+      "ideal_for": "Chemically treated, straightened, smoothened and sensitized hair that needs deep nourishment, hydration and long-lasting smoothness.",
+      "how_to_use": "After shampooing with NICKED Post-Treatment Shampoo, apply evenly to damp hair. Leave on for 2–3 minutes for daily use or 5–7 minutes for deep conditioning. Rinse thoroughly with lukewarm water.",
+      "ingredients": "Aqua (Water), Cetearyl Alcohol, Stearimonium Chloride, Amodimethicone and Trideceth-12, Cetrimonium Chloride, Cyclopentasiloxane and Dimethicone, Hydroxyethylcellulose, Perfume, Hydrolyzed Keratin, Citric Acid, Phenoxyethanol.",
+      "ingredients_confirmed": true,
+      "usage_confirmed": true,
+      "review_note": "Printed free-from claims conflict with listed silicones. Keep claims hidden until owner confirmation.",
+      "image_file": "post-treatment-conditioner.webp"
+    },
+    {
+      "sku": "NICKED-003",
+      "slug": "nicked-marula-oil-hydration-shampoo",
+      "name": "NICKED Marula Oil Hydration Shampoo",
+      "size": "300 ml",
+      "price": "1150",
+      "range": "Marula Oil",
+      "type": "Shampoo",
+      "concern": "Hydration / nourishment",
+      "categories": [
+        "Shampoos"
+      ],
+      "tagline": "Hydrate | Nourish | Shine",
+      "summary": "",
+      "key_points": [
+        "Gentle Cleansing Formula",
+        "Helps Maintain Moisture Balance",
+        "Provides Deep Nourishment",
+        "Supports Long-Lasting Smoothness",
+        "Keeps Hair Soft, Manageable & Frizz-Free"
+      ],
+      "ideal_for": "Chemically treated, straightened, smoothened and sensitized hair that needs gentle cleansing, deep nourishment and long-lasting smoothness.",
+      "how_to_use": "Wet hair, apply shampoo and gently massage into hair and scalp. Rinse thoroughly. Follow with Marula Oil Transforming Conditioner.",
+      "ingredients": "Water (Aqua), Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Cocamide MEA, Sclerocarya Birrea Seed Oil (Marula Oil), Chenopodium Quinoa Seed Extract, Polyglyceryl-10 Oleate, Polysorbate 20, Sodium Chloride, Perfume, PEG-7 Glyceryl Cocoate, Sodium Lauroyl Sarcosinate, Polyquaternium-10, Tetrasodium EDTA, Polyquaternium-7, Citric Acid, Butylene Glycol, Phenoxyethanol.",
+      "ingredients_confirmed": true,
+      "usage_confirmed": true,
+      "review_note": "Printed free-from claims are unconfirmed. No free-from claim is included in the public copy.",
+      "image_file": "marula-hydration-shampoo.webp"
+    },
+    {
+      "sku": "NICKED-004",
+      "slug": "nicked-marula-oil-transforming-conditioner",
+      "name": "NICKED Marula Oil Transforming Conditioner",
+      "size": "300 ml",
+      "price": "1150",
+      "range": "Marula Oil",
+      "type": "Conditioner",
+      "concern": "Hydration / nourishment",
+      "categories": [
+        "Conditioners"
+      ],
+      "tagline": "Hydrate | Nourish | Shine",
+      "summary": "NICKED Marula Oil Transforming Conditioner is a rich yet lightweight formula designed for chemically treated and sensitized hair. Infused with precious Marula Oil, it replenishes moisture, enhances shine, and improves hair's strength while keeping it soft, silky, smooth, and manageable. It detangles effortlessly, reduces frizz, and leaves hair looking healthy, glossy, and radiant.",
+      "key_points": [
+        "Deep Nourishment & Hydration",
+        "Locks in moisture for soft, silky hair",
+        "Enhances manageability and shine",
+        "Frizz control & smoothness",
+        "Protects and prolongs treatment results",
+        "Gentle on treated hair"
+      ],
+      "ideal_for": "Chemically treated, straightened, smoothened and sensitized hair that needs deep nourishment, hydration and long-lasting smoothness.",
+      "how_to_use": "After shampooing with Marula Oil Hydration Shampoo, apply the conditioner evenly to damp hair. Leave on for 2–3 minutes for daily hydration or up to 5 minutes for deep conditioning. Rinse thoroughly with lukewarm water.",
+      "ingredients": "Aqua (Water), Cetearyl Alcohol, Dimethicone, Stearimonium Chloride, Hydrolyzed Wheat Protein, Marula Oil (Marula Seed Oil), Chenopodium Quinoa Seed Extract, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Butylene Glycol, Phenoxyethanol.",
+      "ingredients_confirmed": true,
+      "usage_confirmed": true,
+      "review_note": "Printed silicone-free claim conflicts with listed Dimethicone. Keep free-from claims hidden until owner confirmation.",
+      "image_file": "marula-transforming-conditioner.webp"
+    },
+    {
+      "sku": "NICKED-005",
+      "slug": "nicked-tea-tree-rejuvenating-shampoo",
+      "name": "NICKED Tea Tree Rejuvenating Shampoo",
+      "size": "300 ml",
+      "price": "1150",
+      "range": "Tea Tree",
+      "type": "Shampoo",
+      "concern": "Dandruff / oily scalp / scalp irritation",
+      "categories": [
+        "Shampoos",
+        "Scalp & Oil Care"
+      ],
+      "tagline": "Purifies scalp | Controls oil | Promotes healthy hair",
+      "summary": "",
+      "key_points": [
+        "Deeply cleanses scalp and hair",
+        "Removes dirt, excess oil and impurities",
+        "Helps reduce dandruff, flakiness and scalp irritation",
+        "Maintains scalp's natural moisture balance",
+        "Leaves hair clean, soft and refreshed",
+        "Suitable for daily use and all hair types"
+      ],
+      "ideal_for": "Oily scalp, dandruff-prone scalp, itchy scalp and hair that needs a deep yet gentle cleanse. Suitable for all hair types.",
+      "how_to_use": "Wet hair, apply shampoo and gently massage into hair and scalp. Rinse thoroughly. For best results, follow with NICKED Tea Tree Conditioner.",
+      "ingredients": "",
+      "ingredients_confirmed": false,
+      "usage_confirmed": true,
+      "review_note": "The printed ingredient list duplicates the Marula shampoo list and does not list Tea Tree Oil. Leave ingredients blank; owner to supply the correct list.",
+      "image_file": "tea-tree-shampoo.webp"
+    },
+    {
+      "sku": "NICKED-006",
+      "slug": "nicked-tea-tree-rejuvenating-conditioner",
+      "name": "NICKED Tea Tree Rejuvenating Conditioner",
+      "size": "300 ml",
+      "price": "1150",
+      "range": "Tea Tree",
+      "type": "Conditioner",
+      "concern": "Dandruff / scalp irritation / dryness / nourishment",
+      "categories": [
+        "Conditioners",
+        "Scalp & Oil Care"
+      ],
+      "tagline": "Smooths hair | Reduces frizz | Deep nourishment",
+      "summary": "",
+      "key_points": [
+        "Nourishing and refreshing hair treatment",
+        "Soothes the scalp",
+        "Helps reduce dryness, irritation and dandruff",
+        "Hydrates hair strands without weighing them down",
+        "Promotes a balanced, healthy scalp environment",
+        "Leaves hair soft, manageable and revitalized"
+      ],
+      "ideal_for": "Oily, flaky, or sensitive scalp. Helps control dandruff and scalp irritation while nourishing and hydrating hair. Suitable for all hair types.",
+      "how_to_use": "After shampooing, apply Tea Tree Rejuvenating Conditioner to hair. Let it sit for 2–3 minutes for therapeutic benefits to absorb and rinse thoroughly.",
+      "ingredients": "",
+      "ingredients_confirmed": false,
+      "usage_confirmed": true,
+      "review_note": "Overview text is garbled. Ingredient list contains unclear entries. Keep overview and ingredients blank until owner supplies clean text.",
+      "image_file": "tea-tree-conditioner.webp"
+    },
+    {
+      "sku": "NICKED-007",
+      "slug": "nicked-marula-oil-hair-healing-repair-serum",
+      "name": "NICKED Marula Oil Hair Healing & Repair Serum",
+      "size": "100 ml",
+      "price": "1450",
+      "range": "Marula Oil",
+      "type": "Hair Serum",
+      "concern": "Frizz / dryness / shine / repair",
+      "categories": [
+        "Serums & Leave-Ins"
+      ],
+      "tagline": "Nourish | Smooth | Repair | Protect",
+      "summary": "NICKED Marula Oil Hair Healing & Repair Serum is a premium smoothing treatment designed for all hair types. Enriched with Marula Oil, Aloe Vera, and Vitamin E, it effortlessly tames frizz and flyaway, making styling with flat irons and curling irons easy. This serum deeply moisturizes, leaving your hair soft, nourished, and manageable. Regular use promotes a silky, healthy, and refreshed appearance.",
+      "key_points": [
+        "Instantly adds natural shine",
+        "Reduces frizz and flyaways",
+        "Nourishes and smooths hair",
+        "Helps in easy styling with flat and curling irons",
+        "Lightweight, non-greasy formula",
+        "Suitable for all hair types"
+      ],
+      "ideal_for": "Dry, frizzy, dull or damaged hair. Perfect for all hair types, including straight, wavy, curly and chemically treated hair.",
+      "how_to_use": "Dispense 1–2 pumps into your palm and apply to damp or dry hair before styling for optimal results.",
+      "ingredients": "Sclerocarya Birrea (Marula) Seed Oil, Cyclomethicone, Dimethicone, Tocopheryl Acetate (Vitamin E), Aloe Vera Extract.",
+      "ingredients_confirmed": true,
+      "usage_confirmed": true,
+      "review_note": "Printed silicone-free claim conflicts with listed silicones. Keep free-from claims hidden until owner confirmation.",
+      "image_file": "marula-repair-serum.webp"
+    },
+    {
+      "sku": "NICKED-008",
+      "slug": "nicked-argan-oil-moisturizing-leave-in-spray",
+      "name": "NICKED Argan Oil Moisturizing Leave-In Spray",
+      "size": "150 ml",
+      "price": "750",
+      "range": "Argan Oil",
+      "type": "Leave-In Spray",
+      "concern": "Frizz / dryness / detangling / shine",
+      "categories": [
+        "Serums & Leave-Ins"
+      ],
+      "tagline": "Detangle | Anti-Frizz | Shine | Smoothness | Strengthen",
+      "summary": "NICKED Argan Oil Moisturizing Leave-In Spray is enriched with the goodness of pure Argan Oil. This lightweight, non-greasy formula instantly detangles, controls frizz and flyaways, adds natural shine, and leaves hair soft, smooth and manageable. It also helps protect and strengthen hair, making it look healthier and more vibrant — every day.",
+      "key_points": [
+        "Instantly detangles hair",
+        "Controls frizz and flyaways",
+        "Adds natural shine and smoothness",
+        "Lightweight, non-greasy formula",
+        "Helps protect and strengthen hair",
+        "Suitable for all hair types"
+      ],
+      "ideal_for": "Dry, frizzy, tangled or dull hair. Perfect for all hair types, including straight, wavy, curly and coily hair.",
+      "how_to_use": "Spray evenly onto damp or dry hair. Do not rinse. Style as desired.",
+      "ingredients": "",
+      "ingredients_confirmed": false,
+      "usage_confirmed": true,
+      "review_note": "Ingredient list contains silicones and methylchloroisothiazolinone / methylisothiazolinone. Hold ingredients for formulator review and keep free-from claims hidden.",
+      "image_file": "argan-leave-in-spray.webp"
+    },
+    {
+      "sku": "NICKED-009",
+      "slug": "nicked-heat-protection-spray",
+      "name": "NICKED Heat Protection Spray",
+      "size": "150 ml",
+      "price": "690",
+      "range": "Styling & Protection",
+      "type": "Heat Protection Spray",
+      "concern": "Heat damage / UV damage / frizz / smoothness / shine",
+      "categories": [
+        "Heat & Styling Protection"
+      ],
+      "tagline": "Protect | Shine | Smooth | Prevent damage",
+      "summary": "",
+      "key_points": [
+        "Enhances shine and smoothness",
+        "Keeps hair soft, manageable and frizz-free",
+        "Suitable for all hair types"
+      ],
+      "ideal_for": "",
+      "how_to_use": "Spray evenly on damp or dry hair before using a flat iron, curling iron or blow-dryer. Ensure even distribution to maximize protection and shine.",
+      "ingredients": "",
+      "ingredients_confirmed": false,
+      "usage_confirmed": true,
+      "review_note": "Hold back the 235°C, UV and scientifically-formulated claims until the owner supplies test evidence. Ingredient list includes methylchloroisothiazolinone / methylisothiazolinone and amodimethicone; formulator review needed.",
+      "image_file": "heat-protection-spray.webp"
+    }
+  ]
+}
